@@ -13,4 +13,8 @@ https://randomnerdtutorials.com/fingerprint-sensor-module-with-arduino/
 
 http://server4.eca.ir/eshop/000/AS608/Synochip-AS608.pdf
 
+https://nicuflorica.blogspot.com/2019/10/senzor-de-amprenta-dy50.html
 
+![ok](https://1.bp.blogspot.com/-bkYfmPcDtgc/XbR0vQph7MI/AAAAAAAAat8/RAAKcDFNuBMwIK4rOjI59sKvWa35hPP3wCEwYBhgL/s1600/deget_bun.jpg)
+
+![nok](https://1.bp.blogspot.com/-ase_MOldesA/XbR0aclae7I/AAAAAAAAatg/iax4_G8dIQQRbuK-Vg7nZtwb2aeF5cs6QCLcBGAsYHQ/s1600/inca_un_deget_gresit.jpg)
